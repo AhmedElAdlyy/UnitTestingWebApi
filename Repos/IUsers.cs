@@ -11,6 +11,7 @@ namespace WebApiTesting.Services
     {
         List<User> GetUsers();
         User GetUser(int id);
+        User GetUserByName(string name);
         User AddUser(User user);
         User EditUser(User newUserData);
         bool DeleteUserById(int id);

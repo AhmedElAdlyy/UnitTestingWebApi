@@ -11,6 +11,7 @@ namespace WebApiTesting.Services
     {
         List<Role> GetRoles();
         Role GetRole(int id);
+        Role GetRoleByName(string name);
         Role AddRole(Role role);
         Role EditRole(Role newRoleData);
         bool DeleteRoleById(int id);

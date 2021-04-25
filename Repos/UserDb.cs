@@ -21,6 +21,11 @@ namespace WebApiTesting.Services
             return user;
         }
 
+        public User GetUserByName(string name)
+        {
+            return _context.User.FirstOrDefault(f => f.Username == name);
+        }
+
         public bool DeleteUserById(int id)
         {
             User user = GetUser(id);

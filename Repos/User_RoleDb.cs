@@ -7,7 +7,7 @@ using WebApiTesting.Models;
 
 namespace Repos
 {
-    class User_RoleDb : IUser_Roles
+    public class User_RoleDb : IUser_Roles
     {
         private TestingContext _context;
 
@@ -46,7 +46,7 @@ namespace Repos
 
                 return false;
             }
-            
+
         }
 
         public User_Role EditUserRole(User_Role user_Role)

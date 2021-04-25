@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repos", "Repos\Repos.csproj", "{9573DDDE-B6B9-4315-9E57-A39527217678}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repos.UnitTest", "Repos.UnitTest\Repos.UnitTest.csproj", "{ADBFE5AE-C2AA-4271-B3DD-C65947B52162}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9573DDDE-B6B9-4315-9E57-A39527217678}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9573DDDE-B6B9-4315-9E57-A39527217678}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9573DDDE-B6B9-4315-9E57-A39527217678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBFE5AE-C2AA-4271-B3DD-C65947B52162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBFE5AE-C2AA-4271-B3DD-C65947B52162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBFE5AE-C2AA-4271-B3DD-C65947B52162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBFE5AE-C2AA-4271-B3DD-C65947B52162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

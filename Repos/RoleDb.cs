@@ -66,5 +66,10 @@ namespace WebApiTesting.Services
         {
             return _context.Role.ToList();
         }
+
+        public Role GetRoleByName(string name)
+        {
+            return _context.Role.FirstOrDefault(f => f.RoleName == name);
+        }
     }
 }
