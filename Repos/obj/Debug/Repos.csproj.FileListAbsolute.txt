@@ -1,0 +1,15 @@
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\bin\Debug\Repos.dll.config
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\bin\Debug\Repos.dll
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\bin\Debug\Repos.pdb
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\bin\Debug\EntityFramework.dll
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\bin\Debug\EntityFramework.SqlServer.dll
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\bin\Debug\Models.dll
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\bin\Debug\Models.pdb
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\bin\Debug\Models.dll.config
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\bin\Debug\EntityFramework.xml
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\bin\Debug\EntityFramework.SqlServer.xml
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\obj\Debug\Repos.csprojAssemblyReference.cache
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\obj\Debug\Repos.csproj.CoreCompileInputs.cache
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\obj\Debug\Repos.csproj.CopyComplete
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\obj\Debug\Repos.dll
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Repos\obj\Debug\Repos.pdb

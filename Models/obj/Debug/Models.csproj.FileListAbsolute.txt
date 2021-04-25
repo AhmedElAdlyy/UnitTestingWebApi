@@ -1,0 +1,14 @@
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Models\bin\Debug\Models.dll
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Models\bin\Debug\Models.pdb
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Models\obj\Debug\Models.dll
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Models\obj\Debug\Models.pdb
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Models\bin\Debug\Models.dll.config
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Models\bin\Debug\EntityFramework.dll
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Models\bin\Debug\EntityFramework.xml
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Models\obj\Debug\WebApiTesting.Migrations.firstMigration.resources
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Models\obj\Debug\Models.csproj.GenerateResource.cache
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\Unit Test\Labs\Lab 1\WebApiTesting\Models\obj\Debug\Models.csproj.CopyComplete
