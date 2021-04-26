@@ -40,9 +40,24 @@ namespace Repos.UnitTest
                     }
                 }
             }
-
             Assert.IsTrue(check);
-
         }
+
+        [TestMethod]
+        public void LoginTestTrue()
+        {
+            var user = userDb.LoginUser("Admin", "123");
+
+            Assert.IsNotNull(user);
+        }
+
+        [TestMethod]
+        public void LoginTestFalse()
+        {
+            var user = userDb.LoginUser("Admins", "1234");
+
+            Assert.IsNull(user);
+        }
+
     }
 }

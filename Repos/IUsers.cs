@@ -16,5 +16,6 @@ namespace WebApiTesting.Services
         User EditUser(User newUserData);
         bool DeleteUserById(int id);
         bool DeleteUserByUser(User user);
+        User LoginUser(string username, string password);
     }
 }

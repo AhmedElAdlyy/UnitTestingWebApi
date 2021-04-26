@@ -66,5 +66,10 @@ namespace WebApiTesting.Services
         {
             return _context.User.ToList();
         }
+
+        public User LoginUser(string username, string password)
+        {
+            return _context.User.FirstOrDefault(f => f.Username == username && f.Password == password);
+        }
     }
 }
